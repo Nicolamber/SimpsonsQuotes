@@ -1,1 +1,3 @@
 # SimpsonsQuotes
+
+RecyclerView + MVVM example
